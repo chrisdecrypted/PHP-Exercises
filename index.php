@@ -10,6 +10,13 @@
 <body>
     <h1>PHP Programming with MySQL</h1>
     <h5>Gosselin, D., Kokoska, D., & Easterbrooks, R. (2011). PHP Programming with MySQL (2nd ed.). </h5>
+    <h4>View PHP Source </h4>
+    <p>These projects all demonstrate principles of PHP programming. Since this is server-side code, the HTML source is not a good representation of the code's purpose. Please feel free to examine the source further on my github page. The structure mirrors this demonstration site. These exercises follow textbook examples and some functionality may be limited or modified for security purposes. </p>
+    <ul>
+        <li>
+            <a href="https://github.com/cmurray21/php-textbook/">GitHub Repo</a>
+        </li>
+    </ul>
     <br>
     <h4>Reinforcement Examples from Chapter 1</h4>
     <ul>
@@ -78,14 +85,6 @@
     <ul>
         <li>
             <a href="chp4/Scholarship.html">Scholarship Application Form</a>
-        </li>
-    </ul>
-
-    <h4>View PHP Source </h4>
-    <p>These projects all demonstrate principles of PHP programming. Since this is server-side code, the HTML source is not a good representation of the code's purpose. Please feel free to examine the source further on my github page. The structure mirrors this demonstration site. These exercises follow textbook examples and some functionality may be limited or modified for security purposes. </p>
-    <ul>
-        <li>
-            <a href="https://github.com/cmurray21/php-textbook/">GitHub Repo</a>
         </li>
     </ul>
 
