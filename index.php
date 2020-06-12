@@ -79,6 +79,7 @@
         <li>
             <a href="chp4/Scholarship.html">Scholarship Application Form</a>
         </li>
+    </ul>
 
     <h4>View PHP Source </h4>
     <p>These projects all demonstrate principles of PHP programming. Since this is server-side code, the HTML source is not a good representation of the code's purpose. Please feel free to examine the source further on my github page. The structure mirrors this demonstration site. These exercises follow textbook examples and some functionality may be limited or modified for security purposes. </p>
@@ -86,7 +87,7 @@
         <li>
             <a href="https://github.com/cmurray21/php-textbook/">GitHub Repo</a>
         </li>
-
+    </ul>
 
 </body>
 
