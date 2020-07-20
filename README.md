@@ -1,3 +1,6 @@
-# php-textbook
+# PHP Programming with MySQL
+### Gosselin, D., Kokoska, D., & Easterbrooks, R. (2011). PHP Programming with MySQL (2nd ed.). 
 
-These are exercises from my Web Applications Development course. 
+Exercises posted here.
+
+http://php.christopher-murray.com/php-ex/
